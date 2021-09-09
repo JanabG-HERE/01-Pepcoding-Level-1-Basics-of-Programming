@@ -5,7 +5,7 @@ Data Structures and Algorithms in Java
 [Level 1 - Foundation]
 
 
-This is my repo for all the questions I will be going to solve from level 1 in Java Pepcoding website.
+This is my repo for all the questions I will be going to solve from level 1 in Java Pepcoding website. Each solution has commented question link at the end.
 
 
 298 QUESTIONS
