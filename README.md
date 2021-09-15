@@ -17,11 +17,11 @@ This is my repo for all the questions I will be going to solve from level 1 in J
 
 **1.Basics of Programming**
 
-      -[Getting Started](https://github.com/JanabG-HERE/Java_Level_1_Pepcoding/tree/main/Getting_Started)
+      -Getting Started
 
-      -[Patterns](https://github.com/JanabG-HERE/Java_Level_1_Pepcoding/tree/main/Patterns)
+      -Patterns
 
-      -[Function and Arrays](https://github.com/JanabG-HERE/Java_Level_1_Pepcoding/tree/main/Function-and-arrays)
+      -Function and Arrays
 
       -2D Arrays
 
@@ -67,6 +67,6 @@ This is my repo for all the questions I will be going to solve from level 1 in J
 
       -Graphs
 
-**7.Miscellaneous  **
+**7.Miscellaneous**
 
       -JAVA for C++ Coders
