@@ -17,11 +17,11 @@ This is my repo for all the questions I will be going to solve from level 1 in J
 
 **1.Basics of Programming**
 
-      -Getting Started
+      -[Getting Started](https://github.com/JanabG-HERE/Java_Level_1_Pepcoding/tree/main/Getting_Started)
 
-      -Patterns
+      -[Patterns](https://github.com/JanabG-HERE/Java_Level_1_Pepcoding/tree/main/Patterns)
 
-      -Function and Arrays
+      -[Function and Arrays](https://github.com/JanabG-HERE/Java_Level_1_Pepcoding/tree/main/Function-and-arrays)
 
       -2D Arrays
 
